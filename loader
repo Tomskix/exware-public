@@ -1,14 +1,14 @@
 if game.PlaceId == 286090429 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware/main/exware-arsenal"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware-public/main/arsenal"))()
 else
   if game.PlaceId == 10449761463 then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware/main/exware-prem.lua"))()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware-public/main/tsb"))()
   else
     if game.PlaceId == 9391468976 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware/main/jjks"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware-public/main/jjks"))()
     else
         if game.PlaceId == 2788229376 then
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware/main/exware-dh"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware-public/main/dahood"))()
         end
     end
   end
