@@ -7,7 +7,7 @@ local Keys = {
     }
 }
 for Global, Value in pairs(_G) do 
-    if Global == Key then 
+    if Global == "Key" then 
         _G.Key = Value 
     end
 end
