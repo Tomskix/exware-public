@@ -1,0 +1,36 @@
+local Keys = {
+    ["trial_3days"] = {
+        "DACFB76F-C1E0-4F03-87DD-64E14F012089",
+        "2024-07-08",
+        "2024-07-11",
+        true,
+    }
+}
+local function checkkey(key)
+    if game:GetService("RbxAnalyticsService"):GetClientId() == key[1] or key[4] == false then
+        local dateString = key[2]
+        local year, month, day = dateString:match("(%d+)-(%d+)-(%d+)")
+        local inputDate = os.time({year = year, month = month, day = day})
+        local expirated = key[3]
+        local eyear, emonth, eday = expirated:match("(%d+)-(%d+)-(%d+)")
+
+        local expiredDate = os.time({year = eyear, month = emonth, day = eday})
+
+        return inputDate - expiredDate > 3
+    else 
+        return true 
+    end
+end
+
+local Verified = false
+for KeyIn,KeyD in pairs(Keys) do 
+    if _G.Key == KeyIn then 
+        if not checkkey(Keys[KeyIn]) then 
+            Verified = true 
+        end
+    end 
+end
+
+return Verified
+
+
