@@ -1,9 +1,9 @@
 local Keys = {
     ["trial_3days"] = {
-        "DACFB76F-C1E0-4F03-87DD-64E14F012089",
+        "",
         "2024-07-08",
         "2024-07-11",
-        true,
+        false,
     }
 }
 for Global, Value in pairs(_G) do 
