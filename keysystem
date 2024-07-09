@@ -4,7 +4,14 @@ local Keys = {
         "2024-07-08",
         "2024-07-11",
         false,
+    },
+    ["key_bigsexytoasty"] = {
+        "B39EBC06-CEF1-46C3-B592-3B2D9B8F3702",
+        "2024-07-08",
+        "2402-07-11",
+        true,
     }
+
 }
 for Global, Value in pairs(_G) do 
     if Global == "Key" then 
