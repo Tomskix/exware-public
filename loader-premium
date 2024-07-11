@@ -10,6 +10,10 @@ else
     else
         if game.PlaceId == 2788229376 then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware-public/main/dahood"))()
+        else
+            if game.PlaceId == 13772394625 then 
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Tomskix/exware-public/main/bb"))()
+            end
         end
     end
   end
