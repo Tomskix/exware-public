@@ -6,11 +6,18 @@ local Keys = {
         false,
     },
     ["key_bigsexytoasty"] = {
+        "FC7125D1-0151-4328-9064-A40137026C54",
+        "2024-07-08",
+        "2402-07-11",
+        true,
+    },
+    ["key_noahlifetime"] = {
         "B39EBC06-CEF1-46C3-B592-3B2D9B8F3702",
         "2024-07-08",
         "2402-07-11",
         true,
     },
+
     ["key_traxcancode"] = {
         "DACFB76F-C1E0-4F03-87DD-64E14F012089",
         "2024-07-08",
