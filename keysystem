@@ -23,6 +23,13 @@ local Keys = {
         "2402-07-11",
         true,
     },
+    ["key_firewegotabooster"] = {
+        "4EBAC158-686B-49C5-B00A-D5C77DA965B0",
+        "2024-07-08",
+        "2402-07-11",
+        true,
+    },
+
     ["key_traxcancode"] = {
         "DACFB76F-C1E0-4F03-87DD-64E14F012089",
         "2024-07-08",
