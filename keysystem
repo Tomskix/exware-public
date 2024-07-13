@@ -17,6 +17,13 @@ local Keys = {
         "2402-07-11",
         true,
     },
+    ["key_asexyassbooster"] = {
+        "55DD29A2-756C-4A51-BE5B-1C799C2EDA3E",
+        "2024-07-08",
+        "2402-07-11",
+        true,
+    },
+
     ["key_hydrxishot"] = {
         "A9F6DBCD-C901-4EC9-8C57-BBAC52EBA3A1",
         "2024-07-08",
