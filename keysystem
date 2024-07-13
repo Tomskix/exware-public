@@ -12,13 +12,13 @@ local Keys = {
         true,
     },
     ["key_noahlifetime"] = {
-        "A9F6DBCD-C901-4EC9-8C57-BBAC52EBA3A1",
+        "FC7125D1-0151-4328-9064-A40137026C54",
         "2024-07-08",
         "2402-07-11",
         true,
     },
     ["key_hydrxishot"] = {
-        "FC7125D1-0151-4328-9064-A40137026C54",
+        "A9F6DBCD-C901-4EC9-8C57-BBAC52EBA3A1",
         "2024-07-08",
         "2402-07-11",
         true,
