@@ -5,12 +5,19 @@ local Keys = {
         "2024-07-11",
         false,
     },
+    ["key_thanksforvanity"] = {
+        "D6A937FC-EB3B-4169-BF60-461F98FD86F5",
+        "2024-07-08",
+        "2402-07-11",
+        true,
+    },
     ["key_bigsexytoasty"] = {
         "B39EBC06-CEF1-46C3-B592-3B2D9B8F3702",
         "2024-07-08",
         "2402-07-11",
         true,
     },
+
     ["key_noahlifetime"] = {
         "FC7125D1-0151-4328-9064-A40137026C54",
         "2024-07-08",
