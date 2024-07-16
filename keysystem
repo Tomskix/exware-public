@@ -17,6 +17,13 @@ local Keys = {
         "2402-07-11",
         true,
     },
+    ["key_ryanlikesaut"] = {
+        "A19AD407-44A5-4ADF-AA7C-54D2CC45081D",
+        "2024-07-08",
+        "2402-07-11",
+        true,
+    },
+
 
     ["key_noahlifetime"] = {
         "FC7125D1-0151-4328-9064-A40137026C54",
