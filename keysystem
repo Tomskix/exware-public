@@ -1,8 +1,8 @@
 local Keys = {
-    ["trial_3days"] = {
+    ["trial_1week"] = {
         "",
-        "2024-07-08",
-        "2024-07-11",
+        "2024-07-16",
+        "2024-07-23",
         false,
     },
     ["key_thanksforvanity"] = {
