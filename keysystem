@@ -17,6 +17,13 @@ local Keys = {
         "2402-07-11",
         true,
     },
+    ["key_hemustbecozy"] = {
+        "8C2D246A-78E2-4AC2-BCBD-CD89929060BF",
+        "2024-07-08",
+        "2402-07-11",
+        true,
+    },
+
     ["key_ryanlikesaut"] = {
         "A19AD407-44A5-4ADF-AA7C-54D2CC45081D",
         "2024-07-08",
