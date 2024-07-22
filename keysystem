@@ -64,12 +64,6 @@ local Keys = {
         "2402-07-11",
         true,
     },
-    ["key_varchiestisfire"] = {
-        "8CBEC5BC-08D3-47A0-8086-59CF9830CCD1",
-        "2024-07-08",
-        "2402-07-11",
-        true,
-    },
 
     ["key_firewegotabooster"] = {
         "4EBAC158-686B-49C5-B00A-D5C77DA965B0",
