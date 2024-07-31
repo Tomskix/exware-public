@@ -1,10 +1,4 @@
 local Keys = {
-    ["trial_1week"] = {
-        "",
-        "2024-07-16",
-        "2024-07-23",
-        false,
-    },
     ["key_bigsexytoasty"] = {
         "B39EBC06-CEF1-46C3-B592-3B2D9B8F3702",
         "2024-07-08",
