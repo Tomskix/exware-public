@@ -11,6 +11,13 @@ local Keys = {
         "2402-07-11",
         true,
     },
+    ["key_jonahcanplay"] = {
+        "917E19DB-1B3F-401E-91EB-1B50236D0CB9",
+        "2024-07-08",
+        "2402-07-11",
+        true,
+    },
+
     ["key_snarkybugbounty"] = {
         "7A7BD639-D1EB-4F00-9C06-A0EBA9AA062C",
         "2024-07-08",
