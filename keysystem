@@ -5,6 +5,13 @@ local Keys = {
         "2402-07-11",
         true,
     },
+    ["key_yallarethegoats"] = {
+        "",
+        "2024-07-08",
+        "2402-07-11",
+        false,
+    },
+
     ["key_hemustbecozy"] = {
         "8C2D246A-78E2-4AC2-BCBD-CD89929060BF",
         "2024-07-08",
